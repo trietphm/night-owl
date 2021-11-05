@@ -8,10 +8,10 @@
     }
   },
 
-  "name": "Night Owl🔥",
-  "version": "0.3.5",
+  "name": "Light Owl🔥",
+  "version": "0.1",
   "description": "Ultimate dark and white themes for Firefox",
-  "homepage_url": "https://github.com/dumindu/night-owl",
+  "homepage_url": "https://github.com/trietphm/night-owl",
   "icons": {
     "128": "icons/night-owl.png"
   },
@@ -23,7 +23,7 @@
   },
 
   "browser_action": {
-    "default_icon": "icons/dark-mode.svg",
+    "default_icon": "icons/light-mode.svg",
     "default_title": "Enable light theme ☀️"
   },
 

@@ -1,4 +1,7 @@
-# Night Owl
+# Light Owl
+
+This one is forked from https://github.com/dumindu/night-owl with some adjustment: change default to light and new text color for light mode
+
 
 The ultimate dark and white themes for Firefox
 ![screenshot](https://i.imgur.com/qmaYEBE.png)

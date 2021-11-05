@@ -95,7 +95,7 @@ let currentTheme;
 
 function updateTheme(theme) {
   if (!theme) {
-    theme = "dark";
+    theme = "light";
   }
   currentTheme = theme;
   browser.storage.local.set({"theme": theme});
@@ -109,10 +109,10 @@ function updateTheme(theme) {
 }
 
 function toggleTheme() {
-  if (currentTheme === "dark") {
-    updateTheme("light");
-  } else {
+  if (currentTheme === "light") {
     updateTheme("dark");
+  } else {
+    updateTheme("light");
   }
 }
 
