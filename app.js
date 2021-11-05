@@ -47,12 +47,12 @@ const themes = {
   "light": {
     colors: {
       accentcolor: "#e6e8e3",
-      textcolor: "#8e8e8c",
+      textcolor: "#4d4d4d",
 
       frame: "#e6e8e3",
       tab_background_separator: "#e6e8e3",
       toolbar: "#fcfbf9",
-      tab_background_text: "#8e8e8c",
+      tab_background_text: "#4d4d4d",
       tab_line: "#fcfbf9",
       tab_text: "#545351",
       tab_loading: "#e6e8e3",
@@ -62,12 +62,12 @@ const themes = {
       toolbar_bottom_separator: "#e6e8e3",
 
       toolbar_field: "#fcfbf9",
-      toolbar_field_text: "#8e8e8c",
+      toolbar_field_text: "#4d4d4d",
       toolbar_field_border: "#fcfbf9",
       toolbar_field_separator: "#e6e8e3",
 
       toolbar_field_focus: "#fcfbf9",
-      toolbar_field_text_focus: "#8e8e8c",
+      toolbar_field_text_focus: "#4d4d4d",
       toolbar_field_border_focus: "rgba(30, 32, 28, .08)",
 
       button_background_active: "rgba(30, 32, 28, .08)",
